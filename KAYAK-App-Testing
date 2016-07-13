@@ -1,0 +1,21 @@
+FEATURES	              CONDITIONALS			                                         ASSERTIONS					
+Search for flights    1) The user can search for flights by location		        	After putting in the starting and ending location, the user will be able to hit a search button					
+                       	2) The user can buy a one way or return flight		      	After selecting a one way or return flight, the user will be able to add more filters for location and date.					
+                       	3) The user can search for flights by dates		          	After selecting a location, the user will be able to select the departure date and return date.					
+                      	4) The user can view between options		                	After selecting the dates and location, the user will have a view of all options available by price and time					
+                      	5) The user can add more filters 			                    After selecting the dates and location, the user is able to add filters like direct flight, 2 stops, by price, etc					
+                      	6) The user can purchase flights			                    After selecting a flight, the user is directed to the booking page where they can purchase the flight.					
+									
+Explore	              1) The user can explore flights anywhere in the world			After clicking on the Explore button, a map of the world is brought up with pins and select prices all over					
+                    	2) The user is able to filter by price		              	After looking at the map, the user is able to filter max price and the map is automatically adjusted to reflect					
+                    	3) The user is able to set duraton of trip		        	After selecting how long the user wants to be on the trip, the map is automaticall adjusted to reflect					
+                    	4) The user is able to select what type of climate			After selecting the desired temperature of location, the map is automatically adjusted to reflect the options					
+                    	5) The user is able to select what continent		      	After selecting the continent, the map is automatically adjusted					
+                    	6) The user is able to book flights		                	After selecting the desired trip, the user is brought to the booking page					
+									
+Get Airline Info	  1) The user is able to view a list of all airlines			After selecting the button, the user is able to view an alphabetical list of airlines with their logo					
+                  	2) The user is able to click on a specific airline			After selecting an airline, the user is able to view the info 					
+                  	3) The user is able to view popular airlines		        	After selecting the filter, the user is able to see which airline is more often used					
+                  	4) The user is able to star airlines		              	When viewing airlines, the user is able to star an airline and is then able to see a list through that filter					
+                  	5) The user is able to access the airlines website			When selecting an airline, the user is able to see the clickable website url and phone number					
+                  	6) The user is able to book flights 	              		When selecting on an airline, the user is prompted to select features mentioned above (dates, destination, etc)
